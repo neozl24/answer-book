@@ -1,0 +1,19 @@
+<page>
+    <view class="container">
+        <img class="title" src="/images/title.jpeg" alt="book title"/>
+        <!-- <hr class="dividing-line"> -->
+        <view class="content">
+            <view class="result-container" id="result-container">
+                <p class="question-text" id="question-text"></p>
+                <p class="answer-text" id="answer-text"></p>
+                <button class="continue-button" id="continue-button">继 续</button>
+            </view>
+            <view class="form-container" id="form-container">
+                <label class="form-label">心诚则灵</label>
+                <input class="form-input" type="text" id="question-input" value="" autocomplete="off"/>
+                <button class="submit-button" id="ask-button">请指引我</button>
+            </view>
+        </view>
+        <img class="logo" src="/images/logo.png" alt="book logo"/>
+    </view>
+</page>

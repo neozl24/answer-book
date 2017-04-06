@@ -1,0 +1,11 @@
+{
+  "pages":[
+    "pages/index/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"#877550",
+    "navigationBarBackgroundColor": "#0f0f15",
+    "navigationBarTitleText": "The Answers Of My Life",
+    "navigationBarTextStyle":"#877550"
+  }
+}
